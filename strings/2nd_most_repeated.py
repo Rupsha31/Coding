@@ -12,4 +12,3 @@ if __name__ == '__main__':
         ob = Solution()
         ans = ob.secFrequent(arr,n)
         print(ans)
-    t-=1
